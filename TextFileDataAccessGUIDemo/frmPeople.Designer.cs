@@ -106,7 +106,7 @@
             lbPersonList.ItemHeight = 32;
             lbPersonList.Location = new Point(434, 48);
             lbPersonList.Name = "lbPersonList";
-            lbPersonList.Size = new Size(537, 516);
+            lbPersonList.Size = new Size(776, 516);
             lbPersonList.TabIndex = 7;
             // 
             // btnSaveFile
@@ -137,7 +137,7 @@
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(983, 598);
+            ClientSize = new Size(1268, 598);
             Controls.Add(btnLoadFile);
             Controls.Add(btnSaveFile);
             Controls.Add(lbPersonList);

@@ -135,7 +135,7 @@ namespace TextFileDataAccessGUIDemo
         }
 
         /// <summary>
-        /// Bind lists in Store with listbox controls in form
+        /// Bind lists in Store with list box controls in form
         /// </summary>
         private void SetListBindings()
         {
